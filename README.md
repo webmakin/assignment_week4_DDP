@@ -1,6 +1,9 @@
 # Course Project: Shiny Application and Reproducible Pitch
 
 ## Predicting stopping distance as speed increases
+App Link: https://asif2008.shinyapps.io/test/
+Presentation Link: https://rpubs.com/asif2008/assignment-week4-2-ddp
+Code Link: https://github.com/webmakin/assignment_week4_DDP
 
 ### Objective
 #### Part 1 : Your Shiny Application

@@ -45,6 +45,7 @@ mydata <- rbind(mydata, c(input$speed, newpred.int))
 Plot
 ========================================================
 App Link: https://asif2008.shinyapps.io/test/
-Code Link: 
+Presentation Link: https://rpubs.com/asif2008/assignment-week4-2-ddp
+Code Link: https://github.com/webmakin/assignment_week4_DDP
 ![plot of chunk unnamed-chunk-4](presentation-figure/unnamed-chunk-4-1.png)
 
