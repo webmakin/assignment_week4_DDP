@@ -1,0 +1,12 @@
+name: test
+title:
+username:
+account: asif2008
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3812874
+bundleId: 4362035
+url: https://asif2008.shinyapps.io/test/
+when: 1616046533.4077
+asMultiple: FALSE
+asStatic: FALSE
